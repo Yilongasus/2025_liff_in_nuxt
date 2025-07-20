@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter
+# LIFF in Nuxt
 
 本專案為個人學習用途，使用 Nuxt 3 建立的練習範例。  
 程式碼內容主要用於參與鐵人賽的文章示範，**不提供商業用途使用**。  
@@ -10,7 +10,7 @@
 
 ## 安裝依賴套件
 
-請先安裝開發所需的套件，可依妳使用的套件管理工具執行對應指令：
+請先安裝開發所需的套件，可依個人使用的套件管理工具執行對應指令：
 
 ```bash
 # npm
@@ -28,7 +28,7 @@ bun install
 
 ## 開發模式啟動
 
-啟動本地開發伺服器：伺服器預設運行在 http://localhost:3000
+啟動本地開發伺服器，伺服器預設運行在 http://localhost:3000
 
 ```bash
 # npm
@@ -86,6 +86,7 @@ bun run preview
 此外，本程式碼庫中所使用之第三方套件，皆須依其原始授權條款使用與遵守。
 
 作者：Yilongasus
+
 來源：https://github.com/Yilongasus/2025_liff_in_nuxt
 
 ## License
